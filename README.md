@@ -1,4 +1,4 @@
 #Mini Project
-<br>
 Tic-Tac-Toe Game
+<br>
 Author - Aditya Singh
